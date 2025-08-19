@@ -1,0 +1,4 @@
+github.com/kladd/raw v0.0.0-20150822150324-3644259a8cf4 h1:xF3EkcHi3EQnYNvu+W6bRbAjS6WHzuxaIOmZ9WNS7NI=
+github.com/kladd/raw v0.0.0-20150822150324-3644259a8cf4/go.mod h1:WNuhdURAg3NiqfOQJh/XyrH5ZdlirUursrjoKKeyMok=
+github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd h1:CmH9+J6ZSsIjUK3dcGsnCnO41eRBOnY12zwkn5qVwgc=
+github.com/rwcarlsen/goexif v0.0.0-20190401172101-9e8deecbddbd/go.mod h1:hPqNNc0+uJM6H+SuU8sEs5K5IQeKccPqeSjfgcKGgPk=
